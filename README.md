@@ -1,2 +1,2 @@
-# GC-HAN
-The new way about heterogeneous graph neural network
+# HOAE
+THE CODE WILL BE UPLOADED WHEN THE PAPER IS HIRED
